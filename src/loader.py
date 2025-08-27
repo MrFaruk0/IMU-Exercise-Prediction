@@ -1,6 +1,5 @@
 import numpy as np
 import os
-from iteration_utilities import flatten
 import matplotlib.pyplot as plt
 from torch.utils.data import Dataset, DataLoader
 import pandas as pd
